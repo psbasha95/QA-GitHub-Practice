@@ -12,8 +12,10 @@ Result: PASS
 
 TC-004: Blank username
 Expected: Username required message should be displayed.
-Result: FAIL
+Result: PASS
 
 TC-005: Blank password
 Expected: Password required message should be displayed.
 Result: PASS
+
+BUG-001: Blank username validation fixed.
