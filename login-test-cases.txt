@@ -1,0 +1,19 @@
+TC-001: Valid username + valid password
+Expected: User should successfully log in.
+Result: PASS
+
+TC-002: Invalid username
+Expected: Error message should be displayed.
+Result: PASS
+
+TC-003: Invalid password
+Expected: Error message should be displayed.
+Result: PASS
+
+TC-004: Blank username
+Expected: Username required message should be displayed.
+Result: FAIL
+
+TC-005: Blank password
+Expected: Password required message should be displayed.
+Result: PASS
